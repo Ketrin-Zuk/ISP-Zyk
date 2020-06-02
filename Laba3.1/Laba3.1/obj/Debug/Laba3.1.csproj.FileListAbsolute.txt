@@ -1,0 +1,7 @@
+E:\ИСП\Laba3.1\Laba3.1\bin\Debug\Laba3.1.exe.config
+E:\ИСП\Laba3.1\Laba3.1\bin\Debug\Laba3.1.exe
+E:\ИСП\Laba3.1\Laba3.1\bin\Debug\Laba3.1.pdb
+E:\ИСП\Laba3.1\Laba3.1\obj\Debug\Laba3.1.csprojAssemblyReference.cache
+E:\ИСП\Laba3.1\Laba3.1\obj\Debug\Laba3.1.csproj.CoreCompileInputs.cache
+E:\ИСП\Laba3.1\Laba3.1\obj\Debug\Laba3.1.exe
+E:\ИСП\Laba3.1\Laba3.1\obj\Debug\Laba3.1.pdb
